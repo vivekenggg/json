@@ -8,8 +8,8 @@
           "s3:ListBucket"
         ],
         "Resource": [
-          "arn:aws:s3:::advterraformbucket1",
-          "arn:aws:s3:::advterraformbucket1/*"
+          "arn:aws:s3:::advterrabucket5283",
+          "arn:aws:s3:::advterrabucket5283/*"
         ],
         "Principal": {
           "AWS": [
