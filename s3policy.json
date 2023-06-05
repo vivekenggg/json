@@ -1,24 +1,21 @@
 {
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": [
-        "s3:GetObject",
-        "s3:ListBucket"
-      ],
-      "Resource": [
-        "arn:aws:s3:::advterrabucket2",
-        "arn:aws:s3:::advterrabucket2/*"
-        "arn:aws:s3:::advterrabucket",
-        "arn:aws:s3:::advterrabucket/*"
-                
-      ],
-      "Principal": {
-        "AWS": [
-          "arn:aws:iam::261951012404:user/Vivek.Ravindranath@unisys.com"
-        ]
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Effect": "Allow",
+        "Action": [
+          "s3:GetObject",
+          "s3:ListBucket"
+        ],
+        "Resource": [
+          "arn:aws:s3:::advterraformbucket1",
+          "arn:aws:s3:::advterraformbucket1/*"
+        ],
+        "Principal": {
+          "AWS": [
+            "arn:aws:iam::261951012404:user/Vivek.Ravindranath@unisys.com"
+          ]
+        }
       }
-    }
-  ]
-}
+    ]
+  }
