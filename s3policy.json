@@ -14,7 +14,7 @@
         "Principal": {
           "AWS": [
             "arn:aws:iam::261951012404:user/Vivek.Ravindranath@unisys.com"
-           ]
+          ]
         }
       }
     ]
