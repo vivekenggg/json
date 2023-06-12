@@ -13,8 +13,8 @@
         ],
         "Principal": {
           "AWS": [
-            "arn:aws:iam::261951012404:user/Vivek.Ravindranath@unisys.com",
             "arn:aws:iam::261951012404:user/ramsai.chitturi@unisys.com",
+            "arn:aws:iam::261951012404:user/Vivek.Ravindranath@unisys.com",
             "arn:aws:iam::261951012404:user/george.s2@unisys.com"  
               
           ]
